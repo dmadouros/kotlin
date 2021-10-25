@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.agiledeveloper.airportstatus.AirportIntegrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-20T04:16:41" hostname="9f8b49865a36" time="1.339">
+  <properties/>
+  <testcase name="fetchData returns response from URL" classname="com.agiledeveloper.airportstatus.AirportIntegrationTest" time="1.339"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

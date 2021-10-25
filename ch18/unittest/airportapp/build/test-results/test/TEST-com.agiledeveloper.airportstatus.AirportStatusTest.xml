@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.agiledeveloper.airportstatus.AirportStatusTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-10-20T04:16:46" hostname="9f8b49865a36" time="1.744">
+  <properties/>
+  <testcase name="getAirportStatus returns status for airports in sorted order" classname="com.agiledeveloper.airportstatus.AirportStatusTest" time="1.743"/>
+  <testcase name="getAirportStatus runs in the Dispatchers.IO context" classname="com.agiledeveloper.airportstatus.AirportStatusTest" time="1.617"/>
+  <testcase name="getAirportStatus calls getAirportData asynchronously" classname="com.agiledeveloper.airportstatus.AirportStatusTest" time="0.782"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
